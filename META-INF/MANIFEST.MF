@@ -1,0 +1,24 @@
+Manifest-Version: 1.0
+Created-By: MiXplorer
+
+Name: META-INF/com/google/android/updater-script
+SHA1-Digest: Lzl1y1cC6TvXytLj6okU81/P8AA=
+
+Name: module.prop
+SHA1-Digest: ijQ3oF3chmPvzYb4IsHvhE1l6i0=
+
+Name: META-INF/com/google/android/update-binary
+SHA1-Digest: CParKoW6QMIWrnOTWTa4xaQDGng=
+
+Name: system/vendor/lib/libmmcamera_imx362.so
+SHA1-Digest: pydqMkwuXZ0N/2yfmOm1gsJuwa4=
+
+Name: system/vendor/lib/hw/camera.msm8998.so
+SHA1-Digest: B0Pr8mfng2Cu5vB6gODUbzUGDyA=
+
+Name: system/vendor/lib/libmmcamera2_mct.so
+SHA1-Digest: ZRx39rLh6AnXQoiktQeaD4ijGTA=
+
+Name: README.md
+SHA1-Digest: W4eT6Hfe467nc9Y1Ft77/aeQ4d4=
+

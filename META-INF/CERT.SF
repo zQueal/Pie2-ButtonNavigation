@@ -1,0 +1,24 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest: DVUIEvghKD8BM2fsvCYjhoOt7x4=
+
+Name: META-INF/com/google/android/updater-script
+SHA1-Digest: pVUJ9D5th6d2sD8aeNp5zhiBUcs=
+
+Name: module.prop
+SHA1-Digest: gN4E/MzwPDOSYgICm6uNe3hkNUU=
+
+Name: META-INF/com/google/android/update-binary
+SHA1-Digest: UUgEm5Vk836z+z0Qhts1IcbeSog=
+
+Name: system/vendor/lib/libmmcamera_imx362.so
+SHA1-Digest: FSbsJECL565DkMmtWXhIQYEwnDQ=
+
+Name: system/vendor/lib/hw/camera.msm8998.so
+SHA1-Digest: YGynU7vPAZW3Mc9fOITXmS+9WK0=
+
+Name: system/vendor/lib/libmmcamera2_mct.so
+SHA1-Digest: FLqYr6jtrY5PV0K1892jB5+urWE=
+
+Name: README.md
+SHA1-Digest: NdzDhb6AhWxXKMDdAIOIsiIx4Bs=
+
